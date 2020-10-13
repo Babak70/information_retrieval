@@ -12,7 +12,7 @@ The machine used to run the simulations is a windows-based computer with Intel (
 
 
 # Description and data repository
-Refer o the "How to use" file.
+Refer to the "How to use" file.
 
 
 
