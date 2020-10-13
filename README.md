@@ -1,4 +1,4 @@
-# Projector_network
+# Information Retrieval
 Data and code for the paper "Multimode optical fiber transmission with a deep learning network" published in Nature Light Science and applications. (https://www.nature.com/articles/s41377-018-0074-1).
 
 
