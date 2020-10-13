@@ -20,4 +20,4 @@ Data available here: https://drive.google.com/drive/folders/19DjtVKLdqv2QhtLWcD2
 
 # Reference
 If you use this code, please cite the following paper:
-https://www.nature.com/articles/s41377-018-0074-1)
+https://www.nature.com/articles/s41377-018-0074-1
